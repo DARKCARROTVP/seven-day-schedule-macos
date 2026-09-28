@@ -1,0 +1,11 @@
+.DS_Store
+work/module-cache/
+work/icon.iconset/
+work/icon-1024.png
+work/AppIcon.icns
+work/AppIcon.tiff
+work/ScheduleCleanupTemp.app/
+work/test-data-backup/
+outputs/
+*.zip
+*.xcuserstate
